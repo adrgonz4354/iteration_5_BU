@@ -1,0 +1,11 @@
+EXECUTE make_into_owner 95;
+EXECUTE make_into_owner 156;
+EXECUTE make_into_owner 175;
+EXECUTE make_into_owner 282;
+EXECUTE make_into_owner 397;
+EXECUTE make_into_owner 452;
+EXECUTE make_into_owner 521;
+EXECUTE make_into_owner 542;
+EXECUTE make_into_owner 662;
+EXECUTE make_into_owner 1092;
+EXECUTE make_into_owner 1114;
